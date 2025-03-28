@@ -1,6 +1,4 @@
-# get_next_line_School21_Ecole42<br>
-<br>
-Actual Status : finished.<br>
-Result : 100%<br>
-<br>
-This is my get_next_line project from the 42 cursus, need help write me.
+# Get next line<br>
+
+Created a function in C that reads from a file descriptor one line at a time, managing memory dynamically and supporting multiple open files simultaneously.
+Implemented efficient buffer handling, static storage for each file descriptor, and logic for newline detection — all without using standard I/O functions.
